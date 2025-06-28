@@ -27,7 +27,6 @@ A fun and interactive **Random Color Generator** built using HTML, CSS, and Java
 1. 📥 Clone this repository:
    ```bash
    git clone https://github.com/Minsu-Agrahari/Random-Color_Generator.git
-````
 
 2. 📂 Navigate into the folder
 3. 🌐 Open `index.html` in your browser
@@ -74,4 +73,3 @@ Licensed under the [MIT License](LICENSE) 📃
 
 If you liked this project, don't forget to ⭐ star the repo and share it with others!
 
-```
